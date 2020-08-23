@@ -1,0 +1,11 @@
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\bin\Debug\netcoreapp2.1\Dp_Task.deps.json
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\bin\Debug\netcoreapp2.1\Dp_Task.runtimeconfig.json
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\bin\Debug\netcoreapp2.1\Dp_Task.runtimeconfig.dev.json
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\bin\Debug\netcoreapp2.1\Dp_Task.dll
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\bin\Debug\netcoreapp2.1\Dp_Task.pdb
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.csproj.CoreCompileInputs.cache
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.AssemblyInfoInputs.cache
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.AssemblyInfo.cs
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.dll
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.pdb
+C:\Users\Islam.Fathy\source\repos\Dp_Task\Dp_Task\obj\Debug\netcoreapp2.1\Dp_Task.csprojAssemblyReference.cache
